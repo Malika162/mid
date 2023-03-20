@@ -1,0 +1,26 @@
+.a{
+    color:hotpink;
+    transform: translateX(20px);
+    width: 70px;
+    height: 70px;
+    background-color: skyblue;
+}
+h2{
+    color:skyblue;
+    transform: translateZ(10px);
+    background-color: hotpink;
+    width: 110px;
+    height: 60px;
+}
+.c{
+    color:gray;
+}
+ul{
+    width: 320px;
+  padding: 10px;
+  border: 5px solid palevioletred;
+  margin: 0;
+}
+li{
+    font-size: 20px;
+}

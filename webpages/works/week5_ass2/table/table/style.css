@@ -1,0 +1,27 @@
+table{
+	border-collapse: collapse;
+	text-align: center;
+}
+thead{
+	background-color: lightgray;
+}
+td,th{
+	border: 1px solid black;
+	padding: 15px;
+}
+.col1{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	background-color: lightgray;
+	font-weight: bold;
+}
+thead tr .col1{
+	border-top: 2px solid black;
+}
+
+.collast{
+	border-bottom: 2px solid black;
+}
+td[bgcolor]{
+	font-weight: bold;
+}

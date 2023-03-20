@@ -1,0 +1,28 @@
+p{
+    color:mediumpurple;
+}
+h1{
+    color:rebeccapurple;
+}
+#lol{
+    color:mediumpurple
+}
+ul{
+color:plum
+}
+.lol{
+    color:rebeccapurple
+}
+#lmao{
+    color:palevioletred
+}
+h1:hover{
+    color:greenyellow
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+img:hover{
+    color:firebrick;
+}
